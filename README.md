@@ -1,5 +1,4 @@
 
-# Roblox Executor  
 A undetectable script loader with integrated IDE for Roblox.  
 
 ---
