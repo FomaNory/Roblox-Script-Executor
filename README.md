@@ -34,7 +34,7 @@ A undetectable script loader with integrated IDE for Roblox.
 ---
 
 ## Disclaimer  
-This tool is for educational purposes only. Using executors may violate Roblox's terms of service and result in account suspension. Use at your own risk.  
+This tool is for educational purposes only. Using executors may violate Roblox's terms of service and result in account suspension. Use at your own risk!
 
 ---  
 Stay stealthy. Stay undetected.  
