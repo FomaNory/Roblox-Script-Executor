@@ -19,7 +19,7 @@ A undetectable script loader with integrated IDE for Roblox.
 
 ---
 ## Installation  
-1. Download the latest release from [here](https://github.com/FomaNory/Rbx-Executor/releases).  .  
+1. Download the latest release from [here](https://github.com/FomaNory/Rbx-Executor/releases). 
 2. Launch Roblox and join the game, then launch the Executor 
 
 ---
